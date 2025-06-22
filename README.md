@@ -2,7 +2,7 @@ This repository is intended to replicate the results and generate the stimuli us
 
 ## Repository Structure
 
-- generated_stimuli  
+- generate_stimuli  
   Contains the code used to generate the visual search arrays employed in the experiments.
 
 - generate_template  
